@@ -1,0 +1,3 @@
+[submodule "Python-OpenCV"]
+	path = Python-OpenCV
+	url = https://github.com/NamPhuThuy/Python-OpenCV
