@@ -1,3 +1,6 @@
 [submodule "Python-OpenCV"]
 	path = Python-OpenCV
 	url = https://github.com/NamPhuThuy/Python-OpenCV
+[submodule "Python-Network-Programming"]
+	path = Python-Network-Programming
+	url = https://github.com/NamPhuThuy/Python-Network-Programming
