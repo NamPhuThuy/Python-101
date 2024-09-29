@@ -4,3 +4,6 @@
 [submodule "Python-Network-Programming"]
 	path = Python-Network-Programming
 	url = https://github.com/NamPhuThuy/Python-Network-Programming
+[submodule "Python-Selenium"]
+	path = Python-Selenium
+	url = https://github.com/NamPhuThuy/Python-Selenium
